@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'THEA',
+    description:"THEA is an emotion AI built to detect key facial points of an image and then classify the emotion of the image as sad, anger and so on.",
+    image: '/images/THEA.jpg',
+    tags: ['CNN', 'TensorFlow'],
+    source: 'https://colab.research.google.com/drive/1INySg1a6bfq7659huW8roDVegWu5XzxK?authuser=1#scrollTo=hgj8zU6oPJol',
+    visit: 'https://colab.research.google.com/drive/1INySg1a6bfq7659huW8roDVegWu5XzxK?authuser=1#scrollTo=hgj8zU6oPJol',
     id: 1,
   },
   {
