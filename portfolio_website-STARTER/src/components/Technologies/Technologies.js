@@ -25,7 +25,7 @@ const Technologies = () =>  (
      <ListItem><SiTensorflow size='3rem' />
       <ListContainer> <ListTitle>Machine Learning</ListTitle>
       <ListParagraph>
-        Experience with <br/> TensorFlow
+        Experience with <br/> Model building using Keras, Tf and Scikit
       </ListParagraph></ListContainer>
      </ListItem>
       
