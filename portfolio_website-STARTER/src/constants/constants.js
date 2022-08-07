@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'DOC',
+    description: "DOC is a  brain tumor detection AI capable of detecting masks and tumor locations within the brain. It is trained with Image net dataset and ResNet50 model",
+      image: '/images/download.png',
+      tags: ['CNN', 'ResUNet', 'TensorFlow'],
+    source: 'https://colab.research.google.com/drive/1_XBkpFWHPqv_0Vh1hw5MLS29H_0e7RQ1?authuser=1#scrollTo=dObYCMJY4OEJ',
+    visit: 'https://colab.research.google.com/drive/1_XBkpFWHPqv_0Vh1hw5MLS29H_0e7RQ1?authuser=1#scrollTo=dObYCMJY4OEJ',
     id: 2,
   },
   {
