@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'DOC',
     description: "DOC is a  brain tumor detection AI capable of detecting masks and tumor locations within the brain. It is trained with Image net dataset and ResNet50 model",
-      image: '/images/download.png',
+      image: '/images/DOC.png',
       tags: ['CNN', 'ResUNet', 'TensorFlow'],
     source: 'https://colab.research.google.com/drive/1_XBkpFWHPqv_0Vh1hw5MLS29H_0e7RQ1?authuser=1#scrollTo=dObYCMJY4OEJ',
     visit: 'https://colab.research.google.com/drive/1_XBkpFWHPqv_0Vh1hw5MLS29H_0e7RQ1?authuser=1#scrollTo=dObYCMJY4OEJ',
