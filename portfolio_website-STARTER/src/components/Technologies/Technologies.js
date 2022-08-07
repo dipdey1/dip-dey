@@ -19,7 +19,7 @@ const Technologies = () =>  (
      <ListItem><DiFirebase size='3rem' />
       <ListContainer> <ListTitle>Back-End</ListTitle>
       <ListParagraph>
-        Experience with <br/> Node and Databases
+        Experience with <br/> DJango, Node and Databases
       </ListParagraph></ListContainer>
      </ListItem>
      <ListItem><SiTensorflow size='3rem' />
