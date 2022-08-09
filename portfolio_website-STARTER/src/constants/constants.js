@@ -29,10 +29,10 @@ export const projects = [
   {
     title: 'LEO',
     description: "LEO is an AI that is trained with inception V3 algorithm of Google's Deep Dream to create mystifying art that is a blend of psychedelic neural vision of mixed 5-7 layers.",
-    image: '/images/4.jpg',
+    image: '/images/leauq5_0469a925c0c0145925c004d2491912606ce9b52d.jpg',
     tags: ['Deep Dream', 'CNN', 'TensorFlow'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://colab.research.google.com/drive/1Xxz_juPrndgsMOatGvai6k6827xQk36W?authuser=1#scrollTo=svbdthy14-2u',
+    visit: 'https://colab.research.google.com/drive/1Xxz_juPrndgsMOatGvai6k6827xQk36W?authuser=1#scrollTo=svbdthy14-2u',
     id: 3,
   },
 ];
