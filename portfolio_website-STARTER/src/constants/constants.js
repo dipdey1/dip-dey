@@ -27,10 +27,10 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    title: 'LEO',
+    description: "LEO is an AI that is trained with inception V3 algorithm of Google's Deep Dream to create mystifying art that is a blend of psychedelic neural vision of mixed 5-7 layers.",
     image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    tags: ['Deep Dream', 'CNN', 'TensorFlow'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 3,
