@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://colab.research.google.com/drive/1Xxz_juPrndgsMOatGvai6k6827xQk36W?authuser=1#scrollTo=svbdthy14-2u',
     id: 3,
   },
+   {
+    title: 'MARK',
+    description: "MARK is a marketing AI trying to find the correlation in customer data over a period of 2.5 years through which a company can design a targeted marketing campaign.",
+    image: '/images/Marketing.jpg',
+    tags: ['Auto Encoding', 'K-Means', 'PCA'],
+    source: 'https://colab.research.google.com/drive/1zXiYTOXimsZeXSD2pplHsPECRGhmZaXl?authuser=1#scrollTo=csNC0qDnBUvV',
+    visit: 'https://colab.research.google.com/drive/1zXiYTOXimsZeXSD2pplHsPECRGhmZaXl?authuser=1#scrollTo=csNC0qDnBUvV',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
