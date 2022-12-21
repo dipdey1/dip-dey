@@ -3,7 +3,7 @@ export const projects = [
     title: 'Matter',
     description: "A Community platform for developers to interact and share projects as well as server rooms to teach, discuss and create.",
       image: '/images/Matter.jpeg',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['AWS', 'Django', 'React'],
     visit: 'https://matterroom.herokuapp.com',
      source: 'https://github.com/TemporaAndromeda/vcommunity',
     id: 0,
